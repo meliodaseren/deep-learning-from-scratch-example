@@ -1,8 +1,10 @@
-# ゼロから作る Deep Learning
+# Deep Learning: 用Python進行深度學習的基礎理論實作 (ゼロから作る Deep Learning)
 
 ---
 
 ![表紙](https://raw.githubusercontent.com/oreilly-japan/deep-learning-from-scratch/images/deep-learning-from-scratch.png)
+
+ISBN 13: 9789864764846
 
 ---
 
