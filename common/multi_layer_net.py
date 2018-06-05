@@ -6,7 +6,6 @@ from collections import OrderedDict
 from common.layers import *
 from common.gradient import numerical_gradient
 
-
 class MultiLayerNet:
     """全結合による多層ニューラルネットワーク
 
@@ -158,3 +157,4 @@ class MultiLayerNet:
             grads['b' + str(idx)] = self.layers['Affine' + str(idx)].db
 
         return grads
+

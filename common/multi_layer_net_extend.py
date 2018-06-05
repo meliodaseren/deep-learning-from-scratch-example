@@ -161,3 +161,4 @@ class MultiLayerNetExtend:
                 grads['beta' + str(idx)] = self.layers['BatchNorm' + str(idx)].dbeta
 
         return grads
+

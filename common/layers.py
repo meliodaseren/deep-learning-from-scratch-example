@@ -3,7 +3,6 @@ import numpy as np
 from common.functions import *
 from common.util import im2col, col2im
 
-
 class Relu:
     def __init__(self):
         self.mask = None
@@ -282,3 +281,4 @@ class Pooling:
         dx = col2im(dcol, self.x.shape, self.pool_h, self.pool_w, self.stride, self.pad)
         
         return dx
+
