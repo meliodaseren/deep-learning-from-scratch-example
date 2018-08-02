@@ -1,4 +1,5 @@
-# Deep Learning: 用Python進行深度學習的基礎理論實作 (ゼロから作る Deep Learning)
+# Deep Learning: 用Python進行深度學習的基礎理論實作
+# ゼロから作る Deep Learning
 
 ---
 
